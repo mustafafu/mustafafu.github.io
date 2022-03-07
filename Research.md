@@ -1,1 +1,5 @@
+---
+permalink: /research.html
+---
+
 # Research
