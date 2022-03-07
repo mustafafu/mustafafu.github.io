@@ -1,5 +1,1 @@
----
-permalink: /research.html
----
-
 # Research
