@@ -1,6 +1,7 @@
-## [My google scholar.](https://scholar.google.com/citations?user=XuVguUQAAAAJ&hl=en&oi=ao)
 
 # Publications
+
+## [My google scholar.](https://scholar.google.com/citations?user=XuVguUQAAAAJ&hl=en&oi=ao)
 
   *  \[[Download](https://ieeexplore.ieee.org/document/9472838)\] R. Bhatia, T. V. Lakshman, M. F. Özkoç and S. Panwar, "FlowToss: Fast Wait-Free Scheduling of Deterministic Flows in Time Synchronized Networks," *2021 IFIP Networking Conference (IFIP Networking)*, 2021, pp. 1-6, doi: 10.23919/IFIPNetworking52078.2021.9472838. 
      - \[[Also open access available at IFIP](https://dl.ifip.org/db/conf/networking/networking2021/1570720467.pdf)\] with correction on Fig. 3 y-axis should be (seconds).
