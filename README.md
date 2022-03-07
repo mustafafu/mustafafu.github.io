@@ -1,6 +1,3 @@
 # [Mustafa Ozkoc](https://mustafaozkoc.com/)
-[Find my projects on my github.](https://github.com/mustafafu)
-
-[Find my research here.](https://github.com/mustafafu/mustafafu.github.io/blob/main/Research.md)
-
-[Find my research here.](./Research.html)
+  * [Find my projects on my github.](https://github.com/mustafafu)
+  * [Find my research here.](./Research.html)
