@@ -1,3 +1,3 @@
 # [Mustafa Ozkoc](https://mustafaozkoc.com/)
-  * [Find my projects on my github.](https://github.com/mustafafu)
-  * [Find my research here.](./research.html)
+  * [Publications](./publications.html) 
+  * [Project codes on my github.](https://github.com/mustafafu)
