@@ -1,3 +1,10 @@
+header_pages:
+  - index.markdown
+  - Publications.markdown
+  - Resume.markdown
+  - Contact.markdown
+
+
 title: Mustafa Ozkoc
 email: ozkoc[at]nyu.edu
 
