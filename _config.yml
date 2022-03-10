@@ -1,4 +1,6 @@
-theme: jekyll-theme-cayman
-
 title: Mustafa F. Ozkoc
 email: ozkoc[at]nyu.edu
+
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-feed
