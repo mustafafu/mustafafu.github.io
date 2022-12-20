@@ -1,13 +1,3 @@
-header_pages:
-  - index.markdown
-  - Publications.markdown
-  - Resume.markdown
-  - Contact.markdown
-
-
+theme: jekyll-theme-minimal
 title: Mustafa Ozkoc
-email: ozkoc[at]nyu.edu
-
-theme: jekyll-theme-cayman
-plugins:
-  - jekyll-feed
+description: ozkoc[at]nyu.edu
