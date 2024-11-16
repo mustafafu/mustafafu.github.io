@@ -1,3 +1,16 @@
 theme: jekyll-theme-cayman
 title: Mustafa Ozkoc
-description: ozkoc[at]nyu.edu
+description: >-
+  Senior Research Engineer | Ph.D. from NYU
+  <br>
+  ozkoc[at]nyu.edu
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Custom variables
+github:
+  is_project_page: false

@@ -1,0 +1,34 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// Add Font Awesome
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css");
+
+.page-header {
+    padding: 2rem 1rem;
+}
+
+.main-content {
+    h1, h2, h3, h4, h5, h6 {
+        color: #155799;
+        margin-top: 2rem;
+        margin-bottom: 1rem;
+    }
+}
+
+// Icon styling
+.fab, .fas, .far {
+    margin-right: 8px;
+    color: #155799;
+}
+
+// Link styling
+a {
+    color: #155799;
+    text-decoration: none;
+    &:hover {
+        text-decoration: underline;
+    }
+}
