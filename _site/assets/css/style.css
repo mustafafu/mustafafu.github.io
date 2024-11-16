@@ -847,7 +847,15 @@ a {
 
 .fab, .fas, .far {
   margin-right: 8px;
-  color: #155799; }
+  color: #155799;
+  width: 16px;
+  text-align: center;
+  display: inline-block; }
+
+.fa-github {
+  width: 16px;
+  text-align: center;
+  margin-right: 8px; }
 
 a {
   color: #155799;
