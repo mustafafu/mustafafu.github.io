@@ -30,15 +30,16 @@ In addition to my industry experience, I have served as a teaching assistant at 
 - Machine Learning for Wireless Systems
 - mmWave and 5G Technologies
 - Signal Processing
+- AI based precoder design
 
 ---
 
 ## Experience
-- **Senior Research Engineer**, Samsung Research America
-  - Contributing to Samsung's 5G product portfolio
+- (2026-Present) **Staff Research Engineer**, Samsung Research America (2026-Present)
+  - Contributing to Samsung's 5G/6G product portfolio.
   - Developing advanced PHY algorithms for improved throughput and coverage
   - Implementing solutions using signal processing, heuristics, and machine learning
-
-- **Teaching Assistant**, New York University
+- (2023-2026) **Senior Research Engineer**, Samsung Research America
+- (2018-2022) **Teaching Assistant**, New York University
   - Machine Learning (4 semesters)
   - Internet Architecture and Protocols (2 semesters)
