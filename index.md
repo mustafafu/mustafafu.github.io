@@ -42,8 +42,3 @@ In addition to my industry experience, I have served as a teaching assistant at 
 - (2018-2022) **Teaching Assistant**, New York University
   - Machine Learning (4 semesters)
   - Internet Architecture and Protocols (2 semesters)
-
-
-- **Teaching Assistant**, New York University
-  - Machine Learning (4 semesters)
-  - Internet Architecture and Protocols (2 semesters)
