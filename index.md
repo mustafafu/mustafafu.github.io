@@ -5,8 +5,11 @@ layout: default
 
 # [Mustafa Ozkoc](https://mustafaozkoc.com/)
 
-I hold a Ph.D. from New York University, specializing in wireless communication and machine learning applications for wireless systems. As a Staff Research Engineer at Samsung Research America, I have dedicated over three years to enhancing Samsung's 5G and recently 6G product portfolio. My work involves the development and implementation of advanced PHY algorithms across various software packages, significantly boosting throughput and coverage. These algorithms leverage cutting-edge signal processing techniques, heuristic approaches, and modern machine learning methodologies.
-In addition to my industry experience, I have served as a teaching assistant at NYU, where I supported courses in machine learning for four semesters and internet architecture and protocols for two semesters. My research focuses on mmWave beam management, wireless communication, machine learning for wireless systems, and telecommunication networks.
+I am a Staff Research Engineer at Samsung Research America and a Ph.D. graduate of New York University, specializing in 5G NR and 6G wireless systems. Over the past three years I have developed and deployed advanced PHY-layer algorithms — spanning MIMO, beamforming, beam management, and AI-RAN — that have shipped in commercial 5G NR products and 6G prototypes, delivering up to 27% UL and 15% DL throughput improvements.
+
+My research sits at the intersection of signal processing, machine learning, and next-generation wireless design, with a particular focus on MIMO, beam design, and intelligent beam management across FR1/FR2/FR3 bands. This work has resulted in 11 granted and pending patents and 4 peer-reviewed journal publications in IEEE JSAC, IEEE TVT, and IEEE OJCOMS.
+
+I completed my Ph.D. at NYU Wireless under Prof. Shivendra Panwar, where my thesis on low-latency mobility management in directional wireless networks was recognized with the Dante Youla Award for Graduate Research Excellence in Electrical Engineering. During my doctoral studies I also served as a teaching assistant for courses in machine learning and internet architecture at NYU.
 
 ---
 ## Links
@@ -26,10 +29,10 @@ In addition to my industry experience, I have served as a teaching assistant at 
 ---
 
 ## Research Interests
-- Wireless Communications
-- Machine Learning for Wireless Systems
-- mmWave and 5G Technologies
-- Signal Processing
+- 5G NR and 6G Wireless Systems (FR1/FR2/FR3)
+- MIMO, Beam Design, and Beam Management
+- Machine Learning and AI-RAN for Wireless Systems
+- Signal Processing and PHY-Layer Algorithm Design
 
 ---
 
