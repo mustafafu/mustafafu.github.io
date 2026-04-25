@@ -37,11 +37,38 @@ I completed my Ph.D. at NYU Wireless under Prof. Shivendra Panwar, where my thes
 ---
 
 ## Experience
-- (2026-Present) **Staff Research Engineer**, Samsung Research America (2026-Present)
-  - Contributing to Samsung's 5G/6G product portfolio.
-  - Developing advanced PHY algorithms for improved throughput and coverage
-  - Implementing solutions using signal processing, heuristics, and machine learning
-- (2023-2026) **Senior Research Engineer**, Samsung Research America
-- (2018-2022) **Teaching Assistant**, New York University
-  - Machine Learning (4 semesters)
-  - Internet Architecture and Protocols (2 semesters)
+- **(2026–Present) Staff Research Engineer**, Samsung Research America
+- **(2023–2026) Senior Research Engineer**, Samsung Research America
+  - Developed beambook and beam management algorithms delivering 15% DL / 27% UL throughput gains across FR2 portfolio
+  - Designed first AI-based beambook algorithm for FR2 base stations, automating manual beam design workflow
+  - Delivered FWA-specific FR2 beam management improvements achieving ~10% throughput gain
+  - Designed multi-SSB scheme for FR3 prototype, improving initial access performance by 3 dB
+  - Built GPU-accelerated system-level simulators in Python/PyTorch and Sionna
+- **(May–Aug 2022) Wireless Networking Intern**, Samsung Research America
+  - Designed low-overhead FR2 beam management algorithm reducing beam selection error from ~8% to ~1%
+- **(Jan 2021–Jan 2022) Wireless Networking Intern**, InterDigital R&I
+  - Researched mobility management protocols for directional mmWave systems
+- **(Jun–Sep 2020) Networking & ML Intern**, Nokia Bell Labs
+  - Developed ML-assisted scheduling for deterministic flows in time-synchronized networks (FlowToss)
+- **(2018–2022) Research Assistant**, NYU Wireless, New York University
+  - Ph.D. research on low-latency mobility management in directional wireless networks
+- **(2018–2022) Teaching Assistant**, New York University
+  - Machine Learning (4 semesters), Internet Architecture and Protocols (2 semesters)
+
+---
+
+## Education
+- **Ph.D., Electrical and Computer Engineering** — New York University (2022), GPA: 3.98/4
+- **B.Sc., Electrical & Electronics Engineering + B.Sc. Physics (Double Major)** — Bogazici University (2018), GPA: 3.53/4
+- **Exchange Student** — University of Texas at Austin (Fall 2016), GPA: 3.90/4
+
+---
+
+## Honors & Awards
+- (2025) Global Samsung Best Paper Award (Bronze)
+- (2025) Samsung Research America Best Commercial Patent Award
+- (2025, 2024, 2023) Samsung Research America A1 Inventor Award
+- (2023) Dante Youla Award for Graduate Research Excellence in Electrical Engineering — NYU
+- (2022) GLOBECOM 2022 NSF Student Travel Grant
+- (2021, 2022) Center for Advanced Technology in Telecommunications (CATT) Fellowship — NYU
+- (2018–2021) Ernst Weber Fellowship — NYU
