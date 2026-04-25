@@ -1,45 +1,54 @@
----
-layout: default
----
+# Mustafa F. Özkoç
 
+**Staff Research Engineer at Samsung Research America | Ph.D. NYU**
 
-# [Mustafa Ozkoc](https://mustafaozkoc.com/)
-
-I hold a Ph.D. from New York University, specializing in wireless communication and machine learning applications for wireless systems. As a Staff Research Engineer at Samsung Research America, I have dedicated over three years to enhancing Samsung's 5G and recently 6G product portfolio. My work involves the development and implementation of advanced PHY algorithms across various software packages, significantly boosting throughput and coverage. These algorithms leverage cutting-edge signal processing techniques, heuristic approaches, and modern machine learning methodologies. 
-In addition to my industry experience, I have served as a teaching assistant at NYU, where I supported courses in machine learning for four semesters and internet architecture and protocols for two semesters. My research focuses on mmWave beam management, wireless communication, machine learning for wireless systems, and telecommunication networks.
+🌐 [mustafaozkoc.com](https://mustafaozkoc.com) · [Google Scholar](https://scholar.google.com/citations?user=XuVguUQAAAAJ&hl=en&oi=ao) · [LinkedIn](https://www.linkedin.com/in/mustafaozkoc/) · [GitHub](https://github.com/mustafafu)
 
 ---
-## Links
 
-- <i class="fas fa-scroll"></i> [Publications](./publications.html)
-- <i class="far fa-file-alt"></i> [Patents](./patents.html)
-- <i class="fas fa-code"></i> [Project codes on my github.](https://github.com/mustafafu)
-- <i class="fab fa-google"></i> [Google Scholar](https://scholar.google.com/citations?user=XuVguUQAAAAJ&hl=en&oi=ao)
-- <i class="fab fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/mustafaozkoc/)
-- <i class="fab fa-github"></i> [GitHub](https://github.com/mustafafu)
+I am a Staff Research Engineer at Samsung Research America and a Ph.D. graduate of New York University, specializing in 5G NR and 6G wireless systems. Over the past three years I have developed and deployed advanced PHY-layer algorithms — spanning MIMO, beamforming, beam management, and AI-RAN — that have shipped in commercial 5G NR products and 6G prototypes, delivering up to 27% UL and 15% DL throughput improvements.
 
-  <!-- * [Patents](./patents.html)
-  * 
-  * :linkedin: [Linkedin](https://www.linkedin.com/in/mustafaozkoc/)
-  * :google: [Google Scholar](https://scholar.google.com/citations?user=XuVguUQAAAAJ&hl=en&oi=ao)  -->
+My research sits at the intersection of signal processing, machine learning, and next-generation wireless design, with a particular focus on MIMO, beam design, and intelligent beam management across FR1/FR2/FR3 bands. This work has resulted in 11 granted and pending patents and 4 peer-reviewed journal publications in IEEE JSAC, IEEE TVT, and IEEE OJCOMS.
+
+I completed my Ph.D. at NYU Wireless under Prof. Shivendra Panwar, where my thesis on low-latency mobility management in directional wireless networks was recognized with the Dante Youla Award for Graduate Research Excellence in Electrical Engineering.
 
 ---
 
 ## Research Interests
-- Wireless Communications
-- Machine Learning for Wireless Systems
-- mmWave and 5G Technologies
-- Signal Processing
-- AI based precoder design
+- 5G NR and 6G Wireless Systems (FR1/FR2/FR3)
+- MIMO, Beam Design, and Beam Management
+- Machine Learning and AI-RAN for Wireless Systems
+- Signal Processing and PHY-Layer Algorithm Design
 
 ---
 
 ## Experience
-- (2026-Present) **Staff Research Engineer**, Samsung Research America (2026-Present)
-  - Contributing to Samsung's 5G/6G product portfolio.
-  - Developing advanced PHY algorithms for improved throughput and coverage
-  - Implementing solutions using signal processing, heuristics, and machine learning
-- (2023-2026) **Senior Research Engineer**, Samsung Research America
-- (2018-2022) **Teaching Assistant**, New York University
-  - Machine Learning (4 semesters)
-  - Internet Architecture and Protocols (2 semesters)
+- **(2026–Present) Staff Research Engineer**, Samsung Research America
+- **(2023–2026) Senior Research Engineer**, Samsung Research America
+  - Developed beambook and beam management algorithms delivering 15% DL / 27% UL throughput gains across FR2 portfolio
+  - Designed first AI-based beambook algorithm for FR2 base stations, automating manual beam design workflow
+  - Delivered FWA-specific FR2 beam management improvements achieving ~10% throughput gain
+  - Designed multi-SSB scheme for FR3 prototype, improving initial access performance by 3 dB
+  - Built GPU-accelerated system-level simulators in Python/PyTorch and Sionna
+- **(May–Aug 2022) Wireless Networking Intern**, Samsung Research America
+- **(Jan 2021–Jan 2022) Wireless Networking Intern**, InterDigital R&I
+- **(Jun–Sep 2020) Networking & ML Intern**, Nokia Bell Labs
+- **(2018–2022) Research Assistant**, NYU Wireless, New York University
+
+---
+
+## Education
+- **Ph.D., Electrical and Computer Engineering** — New York University (2022), GPA: 3.98/4
+- **B.Sc., Electrical & Electronics Engineering + B.Sc. Physics (Double Major)** — Bogazici University (2018), GPA: 3.53/4
+- **Exchange Student** — University of Texas at Austin (Fall 2016)
+
+---
+
+## Honors & Awards
+- (2025) Global Samsung Best Paper Award (Bronze)
+- (2025) Samsung Research America Best Commercial Patent Award
+- (2025, 2024, 2023) Samsung Research America A1 Inventor Award
+- (2023) Dante Youla Award for Graduate Research Excellence in Electrical Engineering — NYU
+- (2022) GLOBECOM 2022 NSF Student Travel Grant
+- (2021, 2022) CATT Fellowship — NYU
+- (2018–2021) Ernst Weber Fellowship — NYU
