@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+<a href="/" class="home-btn">← Home</a>
 
 # Publications
 
